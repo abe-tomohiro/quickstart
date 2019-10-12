@@ -1,4 +1,3 @@
-node_modules/
-.idea/
-quickstart.iml
-package-lock.json
+/.idea/.gitignore
+/node_modules/
+/.idea/
